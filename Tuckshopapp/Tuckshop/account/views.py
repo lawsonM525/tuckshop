@@ -3,4 +3,4 @@ from django.http import HttpResponse
 
 # /account -> this function below
 def index(request):
-    return HttpResponse('Welcome User')
+    return render(request, 'index.html')
