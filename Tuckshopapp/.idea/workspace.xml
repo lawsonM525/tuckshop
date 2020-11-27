@@ -10,6 +10,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Script" />
         <option value="HTML File" />
       </list>
     </option>
@@ -25,9 +26,18 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+<<<<<<< HEAD
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/Tuckshoppart two" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Tuckshop/mysite" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+>>>>>>> fcb0ee2712425e6620f8c4cbe0c2e7fa51afad8d
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ok\Documents\GitHub\tuckshop\Tuckshopapp\Tuckshop\mysite" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ok\Documents\GitHub\tuckshop\Tuckshopapp\Tuckshop\templates" />
     </key>
@@ -42,5 +52,22 @@
       <updated>1606230936374</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+<<<<<<< HEAD
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1606411979642">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606411979642" />
+    <state x="184" y="8" key="SettingsEditor" timestamp="1606394950509">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1606394950509" />
+=======
+    <state x="184" y="8" key="SettingsEditor" timestamp="1606398111782">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1606398111782" />
+>>>>>>> fcb0ee2712425e6620f8c4cbe0c2e7fa51afad8d
   </component>
 </project>
